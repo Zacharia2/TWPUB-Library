@@ -1,4 +1,7 @@
 # 墨屉社区书库（EPUB）
+
+我们的墨屉共享书库主页：https://zacharia2.github.io/TWPUB-BOOK/
+
 这是一个自动化的电子书转换共享书库，用于将epub格式化为twpub，并在已安装墨屉社区书库插件的墨屉中直接使用。
 
 墨屉社区书库插件TWPUBPluginLibrary-TiddlyMemo.tid下载链接：https://zacharia2.github.io/TWPUB-BOOK/TWPUBPluginLibrary-TiddlyMemo.tid
