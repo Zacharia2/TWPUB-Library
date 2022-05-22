@@ -28,5 +28,5 @@ TWPUB墨屉：https://github.com/Zacharia2/TWPUB-BOOK
 
 墨屉社区书库展示页面：https://zacharia2.github.io/TWPUB-Library/
 
-墨屉共享书库主页：https://zacharia2.github.io/TWPUB-BOOK/
+墨屉共享书库主页：https://twpub-book.vercel.app/
 
