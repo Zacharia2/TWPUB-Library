@@ -14,7 +14,7 @@
 
 
 使用方法：
-1. **将要转换的EPBU书籍提交到本书库的epubs/library目录。** 请提交issue，索要管理访问权限以便可以添加书籍。需要您留下GitHub用户名或者电子邮件。收到消息会第一时间为您配置仓库权限。
+1. **将要转换的EPBU书籍提交到本书库的epubs/library目录。** 请提交issue或者给我发送邮件（1947114574@qq.com），索要管理访问权限以便可以添加书籍。需要您留下GitHub用户名或者电子邮件。收到消息会第一时间为您配置仓库权限。
 2. 下载书库中的TWPUBPluginLibrary-TiddlyMemo.tid文件然后拖放进墨屉。
 3. 在墨屉中使用![image](https://user-images.githubusercontent.com/32425955/169266021-6373981d-582a-4ad1-ad6b-2311c8c2abb8.png)中的![image](https://user-images.githubusercontent.com/32425955/169266047-e179cc38-8afe-4b5e-b011-6ef1e8c014bc.png)打开官方导入twpub书籍入口，可以看到墨屉社区书库，单击它即可选择自动生成好的电子书，然后导入。
 
