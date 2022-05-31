@@ -1,32 +1,13 @@
 # 墨屉社区书库（EPUB）
 
-我们的墨屉共享书库主页：https://twpub-book.vercel.app/
+使用方法请查看书库主页：https://twpub-book.vercel.app/
 
-这是一个自动化的电子书转换共享书库，用于将epub格式化为twpub，并在已安装墨屉社区书库插件的墨屉中直接使用。您可选择您提交的书籍或者选择其它上传者提交的书籍开始渐进式阅读。
+我的邮件地址：1947114574@qq.com
 
-墨屉社区书库插件TWPUBPluginLibrary-TiddlyMemo.tid下载链接：https://twpub-book.vercel.app/TWPUBPluginLibrary-TiddlyMemo.tid
-
-
-
-
-如果你也想避免使用命令行的方式转换epub书籍到TWPUB格式电子书导入到墨屉，那么可以尝试使用本仓库。在本书库中的书籍将会同步到“官方导入twpub书籍入口”界面的墨屉社区书库，即安装墨屉社区书库插件的大家都可以看到。（欢迎大家分享自己的epub电子书，不胜感激。）
-
-
-
-使用方法：
-1. **将要转换的EPBU书籍提交到本书库的epubs/library目录。** 请提交issue或者给我发送邮件（1947114574@qq.com），索要管理访问权限以便可以添加书籍。需要您留下GitHub用户名或者电子邮件。收到消息会第一时间为您配置仓库权限。
-2. 下载书库中的TWPUBPluginLibrary-TiddlyMemo.tid文件然后拖放进墨屉。
-3. 在墨屉中使用![image](https://user-images.githubusercontent.com/32425955/169266021-6373981d-582a-4ad1-ad6b-2311c8c2abb8.png)中的![image](https://user-images.githubusercontent.com/32425955/169266047-e179cc38-8afe-4b5e-b011-6ef1e8c014bc.png)打开官方导入twpub书籍入口，可以看到墨屉社区书库，单击它即可选择自动生成好的电子书，然后导入。
-
-
-**如果没看到，等待几分钟（让程序执行完成）即可看到啦。点击code右边的actions，可以看到程序转换的过程，或许会出现失败的情况，请多加注意哦。转换失败的书籍请手动处理或者移动到“epubs/自动转换失败的书籍”目录等待上传者处理**
-
-![image](https://user-images.githubusercontent.com/32425955/169262933-4017ea9f-2653-41d7-8533-370c2f5d5cf0.png)
 
 ## 相关链接
 TWPUB墨屉：https://github.com/Zacharia2/TWPUB-BOOK
 
 墨屉社区书库展示页面：https://zacharia2.github.io/TWPUB-Library/
 
-墨屉共享书库主页：https://twpub-book.vercel.app/
 
